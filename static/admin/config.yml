@@ -9,7 +9,7 @@ logo_url: /logo.png
 collections:
   - name: "Bois" # Used in routes, e.g., /admin/collections/post
     label: "Bois" # Used in the UI
-    folder: "content/Bois" # The path to the folder where the documents are stored
+    folder: "content/bois" # The path to the folder where the documents are stored
     path: "{{slug}}/index"
     media_folder: "" # Save images in the post's own folder instead of the static folder
     public_folder: ""
@@ -23,7 +23,7 @@ collections:
 
   - name: "Fournisseurs" # Used in routes, e.g., /admin/collections/post
     label: "Fournisseurs" # Used in the UI
-    folder: "content/Fournisseurs" # The path to the folder where the documents are stored
+    folder: "content/fournisseurs" # The path to the folder where the documents are stored
     path: "{{slug}}/index"
     media_folder: "" # Save images in the post's own folder instead of the static folder
     public_folder: ""
@@ -37,7 +37,7 @@ collections:
 
   - name: "Techniques" # Used in routes, e.g., /admin/collections/post
     label: "Techniques et Conseils" # Used in the UI
-    folder: "content/Techniques" # The path to the folder where the documents are stored
+    folder: "content/techniques" # The path to the folder where the documents are stored
     path: "{{slug}}/index"
     media_folder: "" # Save images in the post's own folder instead of the static folder
     public_folder: ""
