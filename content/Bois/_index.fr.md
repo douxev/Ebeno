@@ -1,9 +1,9 @@
 ---
 title: "Bois"
 description: ''
-type: docs
+type: "docs"
 weight: "1"
-tag: bois
+tag: "bois"
 ---
 ![image](essences-bois.jpg?width=500px)
 
